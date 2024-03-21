@@ -74,7 +74,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 #
 #screenshot
 ![home](https://github.com/vaidish227/Food_Delivery/assets/97668813/0f609faf-fc15-4e61-99e5-576ab4bb2fa6)
+
 ![home2](https://github.com/vaidish227/Food_Delivery/assets/97668813/8616ef9a-230e-40c6-8e9a-b30555413212)
+
 ![signup](https://github.com/vaidish227/Food_Delivery/assets/97668813/35e66064-df0d-4cc6-9692-5fdcaef8f6f6)
+
 ![login](https://github.com/vaidish227/Food_Delivery/assets/97668813/8f4f4a9c-ebc5-484f-8acc-08768051e3d4)
+
+![myorder](https://github.com/vaidish227/Food_Delivery/assets/97668813/a87e8099-72dd-44da-b0b6-fc14edb385ad)
+
+![mycart](https://github.com/vaidish227/Food_Delivery/assets/97668813/0f263a32-7197-4308-ba47-f2f5afd3c55f)
+
+
 
